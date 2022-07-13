@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ola@xpilch.com
+	name = Ola Martyna
